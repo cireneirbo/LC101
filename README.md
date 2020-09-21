@@ -1,2 +1,2 @@
 # LC101
-Repository to store all LaunchCode coursework.
+Repository to store all LaunchCode coursework. 
